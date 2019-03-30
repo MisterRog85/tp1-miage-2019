@@ -1,5 +1,5 @@
 # Nom des étudiants de ce binôme 
-(les DEUX noms) : XXXXX et XXXXXX
+(les DEUX noms) : William TOMAS et Chloé BAIL
 
 Commentaires éventuels des étudiants : XXXXXX
 
