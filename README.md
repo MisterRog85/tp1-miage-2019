@@ -1,7 +1,7 @@
 # Nom des étudiants de ce binôme 
 (les DEUX noms) : William TOMAS et Chloé BAIL
 
-Commentaires éventuels des étudiants : XXXXXX
+Commentaires éventuels des étudiants : ex 3 et 4 se trouvent dans le répertroire ex3.
 
 # Pré-requis 
 * Disposer d'au moins un compte github par binome
